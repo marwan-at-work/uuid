@@ -1,1 +1,1 @@
-module github.com/gobuffalo/uuid
+module github.com/gobuffalo/uuid/v2
